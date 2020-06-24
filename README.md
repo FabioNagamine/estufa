@@ -1,3 +1,3 @@
 # estufa
-# this project has the intent to control a greenhouse using a ESP32
+# this project has the intent to control a greenhouse using an ESP32
 # 
