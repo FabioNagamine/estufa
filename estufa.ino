@@ -8,6 +8,7 @@
   ------------------------------------------------------------------------
   Description: 
   Control a greenhouse and send information to a dashboard 
+  https://dl.espressif.com/dl/package_esp32_index.json
 
 */
 #include <Wire.h>
